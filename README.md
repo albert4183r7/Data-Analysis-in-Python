@@ -2,7 +2,7 @@
 <h2>"<i>Video Game Sales</i>"</h2>
 <br>
 <p>Disusun oleh:</p>
-<p style="color:rgb(22, 22, 156)">Kelompok 5 - Kelas 16 STEI</p>
+<p>Kelompok 5 - Kelas 16 STEI</p>
 <table border = "1">
   <tr>
     <td><b>NIM</b></td>
