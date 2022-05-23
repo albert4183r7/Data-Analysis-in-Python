@@ -1,4 +1,5 @@
 <h1 style=font-family:courier;font-size:40px">Data Analysis with Python</h1>
+<h1 style=font-family:sans-serif;color:blue;font-size:40px">Data Analysis with Python</h1>                                             
 <h2>"<i>Video Game Sales</i>"</h2>
 <br>
 <p>Disusun oleh:</p>
